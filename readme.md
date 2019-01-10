@@ -1,7 +1,7 @@
 
 ## About Medixapp
 
-Medixapp is intended to be a web application for database management in medical institution such as clinic, pharmacy or hospital
+Medixapp is intended to be a web application for database management and information system in medical institution such as clinic, pharmacy or hospital
 
 ## Contributing
 
