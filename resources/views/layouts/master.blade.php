@@ -13,7 +13,7 @@
   <body>
     <h1>Hello, world!</h1>
     @section('content')
-        
+        What is hello
     @show
 
     <!-- Optional JavaScript -->
